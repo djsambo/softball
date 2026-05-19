@@ -189,8 +189,7 @@
             <ul class="list-disc pl-5 mt-2 space-y-1">
               <li>Empate entre dos o más equipos: la posición será otorgada al que haya acumulado más carreras.</li>
               <li>Si persiste el empate: se verificará el equipo que haya permitido menos carrera.</li>
-              <li>Si continua el empate: se decidirá con la sumatoria de los hits producidos en todos los juegos.</li>
-              <li>En caso de empate en juegos ganados y perdidos, para empates entre dos (2) o tres (3) equipos: la posición será otorgada al equipo que haya obtenido mejor resultado en la serie particular disputada entre ellos durante la serie regular.</li>
+              <li>Si continua el empate: se decidirá con la sumatoria de los hits producidos en todos los juegos.</li>            
             </ul>
           </li>
           <li><strong>Postemporada:</strong> La serie semifinal y la serie final se jugarán bajo el formato de tres (3) juegos, resultando ganador el equipo que obtenga dos (2) victorias. Cada partido tendrá una duración de cinco (5) entradas. Ambas series se celebrarán en una misma fecha, conforme al calendario establecido.</li>
