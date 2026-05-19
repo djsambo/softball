@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40022ce3-dfb9-48ab-879d-978308348a1b" name="Changes" comment="Delete assets/index‑BSY0NvHG.js">
+      <change beforePath="$PROJECT_DIR$/assets/index-ByxvfDfs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="8" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;djsambo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/djsambo/softball.git&quot;,
+    &quot;accountId&quot;: &quot;263b9cc2-ad55-401b-9a6e-e694abd7f33e&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Dv3MrvmkWTX9QuuqQHD468PjAT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;production&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40022ce3-dfb9-48ab-879d-978308348a1b" name="Changes" comment="" />
+      <created>1779148670399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779148670399</updated>
+      <workItem from="1779148671405" duration="5053000" />
+    </task>
+    <task id="LOCAL-00001" summary="Clean up legacy files: delete dist folder, metadata.json, package.json and related build assets">
+      <option name="closed" value="true" />
+      <created>1779148772451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779148772451</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add index.html with bundled JS/CSS assets, remove .gitignore.">
+      <option name="closed" value="true" />
+      <created>1779148952909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779148952909</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add index.html with bundled JS/CSS assets, remove .gitignore.">
+      <option name="closed" value="true" />
+      <created>1779149460259</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779149460259</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Replace legacy index‑DyC6‑E5G.js with updated index‑B0N1Yyj0.js containing new season data and roster information.">
+      <option name="closed" value="true" />
+      <created>1779151916399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779151916399</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Replace legacy index‑DyC6‑E5G.js with updated index‑B0N1Yyj0.js containing new season data and roster information.">
+      <option name="closed" value="true" />
+      <created>1779152313949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779152313949</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Replace legacy index‑DyC6‑E5G.js with updated index‑B0N1Yyj0.js containing new season data and roster information.">
+      <option name="closed" value="true" />
+      <created>1779158727703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779158727703</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Replace legacy index‑DyC6‑E5G.js with updated index‑B0N1Yyj0.js containing new season data and roster information.">
+      <option name="closed" value="true" />
+      <created>1779160808089</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779160808089</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Replace legacy index‑DyC6‑E5G.js with updated index‑B0N1Yyj0.js containing new season data and roster information.">
+      <option name="closed" value="true" />
+      <created>1779160842733</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1779160842733</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Replace legacy index‑DyC6‑E5G.js with updated index‑B0N1Yyj0.js containing new season data and roster information.">
+      <option name="closed" value="true" />
+      <created>1779161112357</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1779161112357</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Replace legacy index‑DyC6‑E5G.js with updated index‑B0N1Yyj0.js containing new season data and roster information.">
+      <option name="closed" value="true" />
+      <created>1779161868059</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1779161868059</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Replace legacy index‑DyC6‑E5G.js with updated index‑B0N1Yyj0.js containing new season data and roster information.">
+      <option name="closed" value="true" />
+      <created>1779162144859</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1779162144859</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Delete assets/index‑BSY0NvHG.js">
+      <option name="closed" value="true" />
+      <created>1779162420623</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1779162420623</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clean up legacy files: delete dist folder, metadata.json, package.json and related build assets" />
+    <MESSAGE value="Add index.html with bundled JS/CSS assets, remove .gitignore." />
+    <MESSAGE value="Replace legacy index‑DyC6‑E5G.js with updated index‑B0N1Yyj0.js containing new season data and roster information." />
+    <MESSAGE value="Delete assets/index‑BSY0NvHG.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete assets/index‑BSY0NvHG.js" />
+  </component>
+</project>
