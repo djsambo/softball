@@ -6,10 +6,10 @@
       
       <!-- Desktop Nav -->
       <nav class="hidden md:flex gap-4 lg:gap-8 items-center h-full text-nowrap">
+        <a href="#reglamentos" class="font-sans text-sm md:text-lg uppercase tracking-wider ${a==="reglamentos"?"text-white border-b-4 border-white pb-1":"text-white/70 hover:text-white"} transition-all duration-200">Reglamentos</a>
         <a href="#calendario" class="font-sans text-sm md:text-lg uppercase tracking-wider ${a==="calendario"?"text-white border-b-4 border-white pb-1":"text-white/70 hover:text-white"} transition-all duration-200">Calendario</a>
         <a href="#posiciones" class="font-sans text-sm md:text-lg uppercase tracking-wider ${a==="posiciones"?"text-white border-b-4 border-white pb-1":"text-white/70 hover:text-white"} transition-all duration-200">Posiciones</a>
         <a href="#equipos" class="font-sans text-sm md:text-lg uppercase tracking-wider ${a==="equipos"?"text-white border-b-4 border-white pb-1":"text-white/70 hover:text-white"} transition-all duration-200">Equipos</a>
-        <a href="#reglamentos" class="font-sans text-sm md:text-lg uppercase tracking-wider ${a==="reglamentos"?"text-white border-b-4 border-white pb-1":"text-white/70 hover:text-white"} transition-all duration-200">Reglamentos</a>
       </nav>
 
       <!-- Mobile Menu Button -->
